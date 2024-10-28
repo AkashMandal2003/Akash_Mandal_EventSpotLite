@@ -1,0 +1,29 @@
+
+.App {
+  text-align: center;
+  background-color: #f4f4f4;
+  /* min-height: vh; */
+  padding: 20px;
+}
+
+.event-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.event-list {
+  animation: fadeIn 0.8s ease-in-out;
+}
