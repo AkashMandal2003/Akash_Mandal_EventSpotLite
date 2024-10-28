@@ -5,7 +5,7 @@ const eventsData = [
     date: '2024-11-01',
     location: 'New York',
     description: 'A grand music festival with top artists.',
-    image: '/public/eric-ward-uD0W-swVGgE-unsplash.jpg',
+    image: '/eric-ward-uD0W-swVGgE-unsplash.jpg',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const eventsData = [
     date: '2024-11-05',
     location: 'San Francisco',
     description: 'Explore the latest art pieces by renowned artists.',
-    image: '/public/julien-dumas-OcVLsDcTPBc-unsplash.jpg',
+    image: '/julien-dumas-OcVLsDcTPBc-unsplash.jpg',
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const eventsData = [
     date: '2024-11-10',
     location: 'Los Angeles',
     description: 'An event showcasing the latest innovations in tech.',
-    image: '/public/paul-hanaoka-nEKGwIRFeYc-unsplash.jpg',
+    image: '/paul-hanaoka-nEKGwIRFeYc-unsplash.jpg',
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const eventsData = [
     date: '2024-11-15',
     location: 'Chicago',
     description: 'A celebration of diverse cuisines from around the world.',
-    image: '/public/pexels-pragyanbezbo-2010701.jpg',
+    image: '/pexels-pragyanbezbo-2010701.jpg',
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const eventsData = [
     date: '2024-11-20',
     location: 'Hollywood',
     description: 'Be the first to watch an exclusive movie premiere.',
-    image: '/public/toni-pomar-j5bRXs1iFy0-unsplash.jpg',
+    image: '/toni-pomar-j5bRXs1iFy0-unsplash.jpg',
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const eventsData = [
     date: '2024-11-25',
     location: 'Seattle',
     description: 'A paradise for book lovers with hundreds of book stalls.',
-    image: '/public/kate-bezzubets-8wPW7-sUU8Y-unsplash.jpg',
+    image: '/kate-bezzubets-8wPW7-sUU8Y-unsplash.jpg',
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const eventsData = [
     date: '2024-12-01',
     location: 'Boston',
     description: 'Join thousands of runners for an exciting marathon.',
-    image: '/public/pietro-rampazzo-x5GcXFvJJhI-unsplash.jpg',
+    image: '/pietro-rampazzo-x5GcXFvJJhI-unsplash.jpg',
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const eventsData = [
     date: '2024-12-05',
     location: 'New York',
     description: 'Experience a captivating drama by acclaimed actors.',
-    image: '/public/chuttersnap-Kx4Mm3ZnZBc-unsplash.jpg',
+    image: '/chuttersnap-Kx4Mm3ZnZBc-unsplash.jpg',
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const eventsData = [
     date: '2024-12-10',
     location: 'Berlin',
     description: 'Shop for holiday gifts and enjoy festive treats.',
-    image: '/public/ross-sneddon-Tr_R45Qz7ko-unsplash.jpg',
+    image: '/ross-sneddon-Tr_R45Qz7ko-unsplash.jpg',
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const eventsData = [
     date: '2024-12-31',
     location: 'Sydney',
     description: 'Ring in the new year with spectacular fireworks.',
-    image: '/public/shojol-islam-zFRZYiwlNsA-unsplash.jpg',
+    image: '/shojol-islam-zFRZYiwlNsA-unsplash.jpg',
   },
 ];
 
